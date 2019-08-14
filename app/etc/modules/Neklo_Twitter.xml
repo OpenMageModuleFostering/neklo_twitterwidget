@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Neklo_Twitter>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Neklo_Core/>
+            </depends>
+            <extension_name>Twitter Timeline</extension_name>
+            <free>1</free>
+            <url>twitter-widget-extension-for-magento</url>
+        </Neklo_Twitter>
+    </modules>
+</config>
